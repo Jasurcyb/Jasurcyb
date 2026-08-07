@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Jasur 👋
 
-<!--
-**Jasurcyb/Jasurcyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cybersecurity student at Fergana State Technical University (Uzbekistan)
+🏆 1st Place, Katy Youth Hacks 2026 (172 participants)
+📊 Ranked 14/200+ (top 7%) in my cohort
 
-Here are some ideas to get you started:
+### Current project
+**[CalmLayer](https://github.com/jasurcyb/calmlayer)** — A crisis mode for the internet
+↳ Live: [jasurcyb.github.io/calmlayer](https://jasurcyb.github.io/calmlayer/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Accessibility & Inclusive Design
+- Human-Computer Interaction
+- Cybersecurity & User Wellbeing
+- Open Source
+
+### Looking for
+- Research collaborations (HCI/Accessibility)
+- Summer internship 2027
+- Master's programs in Europe (2028+)
